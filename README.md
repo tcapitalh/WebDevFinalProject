@@ -1,5 +1,5 @@
 GitHub profile README.md file content template:
-# Hi there 👋 I'm Patrik
+# Hi there 👋 I'm Tracey
 I'm a passionate Web Developer specializing in $\color{green}{Front-End Development}$, with a keen eye for detail and a love for creating intuitive, dynamic, and responsive web applications. Welcome to my GitHub profile!
  
 ## 🚀 About Me
