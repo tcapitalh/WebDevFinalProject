@@ -11,16 +11,7 @@ HTML5 | CCS3 | JavaScript | Cyber Security | Cloud Computing | Git | GitHub | Ag
 ## 🌟 Featured Projects
 TrackMove Project: Creating an app for cataloging personal items during a house move would involved: a $\color{blue}{database}$ for storing item information, descriptions, and photos; $\color{blue}{camera}$ $\color{blue}{integration}$ to allow users to take and upload photos of their items; an $\color{blue}{intuitive}$ $\color{blue}{UI}$ for entering, categorizing, and organizing items efficiently; $\color{blue}{search}$ $\color{blue}{functionality}$  for easy retrieval of items, and $\color{blue}{authentication}$ for secure login and user accounts. $\color{blue}{Cloud}$ $\color{blue}{storage}$ is important for backing up item data and photos, while $\color{blue}{offline}$ $\color{blue}{access}$ allows users to catalog items without an internet connection. $\color{blue}{Notifications}$ are used to remind users of upcoming tasks or deadlines.
  
-Tech Stack: React.js, Redux, SASS, Webpack
-Features: User authentication, real-time data updates, dynamic routing
-Project Name 2: A brief description of this project, emphasizing its uniqueness or complexity.
- 
-Tech Stack: Vue.js, Vuex, Bootstrap
-Features: Custom components, API integration, responsive design
-Project Name 3: Highlighting what makes this project stand out, perhaps a significant achievement or a novel use of technology.
- 
-Tech Stack: Angular, RxJS, Material-UI
-Features: Performance optimization, modular architecture, unit and integration testing
+Tech stack: To create the cataloging app, I used a $\color{blue}{MERN}$ stack. This includes $\color{blue}{MongoDB}$ for the database to store item information and photos, $\color{blue}{Express.js}$ as the web application framework, $\color{blue}{React}$ for building the user interface, and $\color{blue}{Node.js}$ as the server environment. Additionally, $\color{blue}{AWS}$ $\color{blue}{S3}$ for cloud storage, $\color{blue}{JWT}$ for secure authentication, and $\color{blue}{Redux}$ for state management ensured smooth functionality and seamless user experiences.
  
 ## 🌱 What I'm Learning
 I'm continuously expanding my skill set and currently diving deeper into:
