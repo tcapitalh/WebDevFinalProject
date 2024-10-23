@@ -1,6 +1,6 @@
 GitHub profile README.md file content template:
 # Hi there 👋 I'm Tracey
-I'm a passionate Web Developer specializing in $\color{green}{Front-End Development}$, with a keen eye for detail and a love for creating intuitive, dynamic, and responsive web applications. Welcome to my GitHub profile!
+I'm a passionate Web Developer specializing in FrontEnd Development, with a keen eye for detail and a love for creating intuitive, dynamic, and responsive $\color{blue}{web applications using JavaScript}$. Welcome to my GitHub profile!
  
 ## 🚀 About Me
 With over [X] years of experience in the industry, I have honed my skills in developing high-quality web solutions. My journey began with a curiosity for how websites are built, and it has blossomed into a career where I get to bring ideas to life on the web. I thrive on challenges and am always eager to learn new technologies and improve my craft.
