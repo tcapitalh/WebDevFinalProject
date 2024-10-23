@@ -16,17 +16,12 @@ Tech stack: To create the cataloging app, I used a $\color{blue}{MERN}$ stack. T
 ## 🌱 What I'm Learning
 I'm continuously expanding my skill set and currently diving deeper into:
  
-Advanced React Patterns
-Progressive Web Apps (PWAs)
-Serverless Architecture
-WebAssembly
-Next.js/Nuxt.js
+MongoDB, Express.js, React, Node.js, Redux, Jest for unit testing, and UI/UX design principles.
  
 ## 📫 How to Reach Me
 Portfolio: your-portfolio-url.com
-LinkedIn: [My LinkedIn profile](https://www.linkedin.com/patrik)
-Twitter: your-twitter-handle
-Email: your-email@example.com
+LinkedIn: https://www.linkedin.com/in/tracey-hallal-2072591b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+Email: tcapitalh@gmail.com
  
 ## 💬 Let's Collaborate
 I'm always open to exciting new projects, freelance work, and collaboration opportunities. If you have an idea or a project in mind, feel free to reach out!
