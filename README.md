@@ -3,12 +3,13 @@ GitHub profile README.md file content template:
 I'm a passionate Web Developer specializing in FrontEnd Development, with a keen eye for detail and a love for creating intuitive, dynamic, and responsive web applications using $\color{blue}{JavaScript}$. Welcome to my GitHub profile!
  
 ## 🚀 About Me
-With over [X] years of experience in the industry, I have honed my skills in developing high-quality web solutions. My journey began with a curiosity for how websites are built, and it has blossomed into a career where I get to bring ideas to life on the web. I thrive on challenges and am always eager to learn new technologies and improve my craft.
+I've honed my skills in high-quality web solutions, particularly in JavaScript, through self-teaching and projects I've initiated. My curiosity about website building has evolved into a passion for bringing ideas to life on the web. I thrive on challenges and continually seek to learn new technologies to enhance my craft. My background in finance operations and communication enriches my ability to develop effective solutions, despite limited industry experience.
  
 ## 🛠️ Skills & Technologies 💻 💻 💻
-HTML5 | CCS3 | JavaScript | Git | GitHub | Agile | Scrum | Web Design | Web Front-end development
+HTML5 | CCS3 | JavaScript | Cyber Security | Cloud Computing | Git | GitHub | Agile | Scrum | Web Design | Web Front-end development
+
 ## 🌟 Featured Projects
-Project Name 1: A brief description of what this project is, the technologies used, and any notable features or challenges overcome.
+TrackMove Project: Creating an app for cataloging personal items during a house move would involved: a $\color{blue}{database}$ for storing item information, descriptions, and photos; $\color{blue}{camera}$ $\color{blue}{integration}$ to allow users to take and upload photos of their items; an $\color{blue}{intuitive}$ $\color{blue}{UI}$ for entering, categorizing, and organizing items efficiently; $\color{blue}{search}$ $\color{blue}{functionality}$  for easy retrieval of items, and $\color{blue}{authentication}$ for secure login and user accounts. $\color{blue}{Cloud}$ $\color{blue}{storage}$ is important for backing up item data and photos, while $\color{blue}{offline}$ $\color{blue}{access}$ allows users to catalog items without an internet connection. $\color{blue}{Notifications}$ are used to remind users of upcoming tasks or deadlines.
  
 Tech Stack: React.js, Redux, SASS, Webpack
 Features: User authentication, real-time data updates, dynamic routing
